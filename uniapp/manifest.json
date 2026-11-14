@@ -1,0 +1,9 @@
+{
+  "name": "@adsos/sdk-uniapp",
+  "id": "adsos-sdk-uniapp",
+  "version": "0.1.0",
+  "description": "AdsOS ad alliance client SDK for uni-app (minimal frozen contract). Host/toolchain versions pending Q-127 freeze.",
+  "uni-app": {
+    "compilerVersion": "pending-Q-127"
+  }
+}

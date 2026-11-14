@@ -1,0 +1,10 @@
+{
+  "name": "AdsosSDK",
+  "rootNamespace": "Adsos.Sdk",
+  "references": [
+    "UnityEngine.UnityWebRequestModule"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "noEngineReferences": false
+}

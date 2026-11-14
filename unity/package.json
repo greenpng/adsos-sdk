@@ -1,0 +1,8 @@
+{
+  "name": "io.adsos.sdk.unity",
+  "version": "0.1.0",
+  "displayName": "AdsOS SDK (Unity)",
+  "description": "AdsOS ad alliance client SDK for Unity (minimal frozen contract: /v1/ad/request + beacons). Toolchain versions pending Q-127 freeze.",
+  "unity": "6000.0",
+  "dependencies": {}
+}

@@ -1,0 +1,15 @@
+name: adsos_sdk
+description: "AdsOS ad alliance client SDK for Flutter (minimal frozen contract: /v1/ad/request + beacons)."
+version: 0.1.0
+publish_to: none
+
+environment:
+  # 候选值：宿主/工具许可待 Q-127 冻结复核后才能视为已定版本。
+  sdk: ">=3.5.0 <4.0.0"
+
+# 显示需要 WebView 承载 html/html5：官方 flutter.dev 插件 webview_flutter
+# （BSD-3，许可随 NOTICE 登记为显式依赖；D-87 显示基线）。
+dependencies:
+  webview_flutter: 4.13.0
+
+dev_dependencies: {}
